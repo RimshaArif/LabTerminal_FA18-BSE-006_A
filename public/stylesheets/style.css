@@ -1,7 +1,7 @@
 body {
   margin: 0% !important;
-  font: 14px "Playfair" !important;
-  background-color: honeydew !important;
+  background-color: whitesmoke !important;
+  font-family: '';
 }
 
 a {
@@ -12,12 +12,7 @@ a {
   background-color: darkcyan !important;
   padding: 20px;
 }
-.table thead {
-  background-color: darkcyan !important;
-}
-.table thead tr th {
-  color: white !important;
-}
+
 h1 {
   padding-top: 70px;
   padding-left: 520px;
@@ -28,13 +23,6 @@ h1 {
   padding-left: 430px;
 }
 
-.btn {
-  background-color: white !important;
-  color: darkcyan !important;
-  border: 2px solid darkcyan !important;
-  margin-right: 30px;
-}
-
 .checked {
-  color: darkcyan !important;
+  color: orange !important;
 }
