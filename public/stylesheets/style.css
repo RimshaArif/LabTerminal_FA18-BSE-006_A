@@ -26,3 +26,7 @@ h1 {
 .checked {
   color: red !important;
 }
+
+#gender {
+  padding-top: 6px;
+}
