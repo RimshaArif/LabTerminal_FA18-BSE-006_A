@@ -34,3 +34,7 @@ h1 {
   border: 2px solid darkcyan !important;
   margin-right: 30px;
 }
+
+.checked {
+  color: white !important;
+}
