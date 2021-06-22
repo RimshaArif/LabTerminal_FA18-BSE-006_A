@@ -1,7 +1,7 @@
 body {
   margin: 0% !important;
   background-color: whitesmoke !important;
-  font-family: '';
+  font-family: "Times New Roman", Times, serif !important;
 }
 
 a {
@@ -24,5 +24,5 @@ h1 {
 }
 
 .checked {
-  color: orange !important;
+  color: red !important;
 }
